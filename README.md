@@ -1,5 +1,4 @@
 Projeto de Rede Metropolitana (MAN)
-Descrição
 Este repositório contém o trabalho realizado por Gabriel de Sousa e Enzo Luis Bertoli como parte do estudo sobre redes, com foco na criação de uma Rede Metropolitana (MAN - Metropolitan Area Network).
 
 Objetivo
@@ -7,20 +6,23 @@ O objetivo principal deste projeto é explorar os conceitos e práticas envolvid
 
 Integrantes
 Gabriel de Sousa
-Enzo Luis Bertoli
-Conteúdo do Repositório
-Documentação: Este diretório contém a documentação detalhada do projeto, incluindo especificações de design, escolhas de implementação e instruções de configuração.
+Enzo Luiz Bertoli
+Estrutura do Repositório
 
-Códigos: Aqui estão os scripts e códigos fonte desenvolvidos para a implementação da Rede Metropolitana. Certifique-se de seguir as instruções fornecidas na documentação para configurar e executar corretamente.
+Documentacao: Contém a documentação detalhada do projeto, incluindo especificações de design, escolhas de implementação e instruções de configuração.
 
-Diagramas: Este diretório contém diagramas visuais que ilustram a topologia da Rede Metropolitana criada, facilitando a compreensão da arquitetura.
+Codigos: Aqui estão os scripts e códigos fonte desenvolvidos para a implementação da Rede Metropolitana. Certifique-se de seguir as instruções fornecidas na documentação para configurar e executar corretamente.
+
+Diagramas: Contém diagramas visuais que ilustram a topologia da Rede Metropolitana criada, facilitando a compreensão da arquitetura.
 
 Instruções de Uso
-Clone este repositório em sua máquina local.
+Clone o Repositório
 
 bash
 Copy code
 git clone https://github.com/seu-usuario/seu-repositorio.git
+Configuração e Execução
 Siga as instruções de configuração e execução fornecidas na documentação para implementar a Rede Metropolitana em seu ambiente.
 
+Exploração do Código
 Explore os códigos-fonte e adapte conforme necessário para atender aos requisitos específicos do seu ambiente.
