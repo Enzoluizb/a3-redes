@@ -1,8 +1,7 @@
 Projeto de Rede Metropolitana (MAN)
 Este repositório contém o trabalho realizado por Gabriel de Sousa e Enzo Luiz Bertoli como parte do estudo sobre redes, com foco na criação de uma Rede Metropolitana (MAN - Metropolitan Area Network).
 
-Objetivo
-O objetivo principal deste projeto é explorar os conceitos e práticas envolvidos na implementação de uma Rede Metropolitana eficiente. O trabalho aborda aspectos como topologia de rede, protocolos de comunicação, segurança e desempenho.
+Objetivo: O objetivo principal deste projeto é explorar os conceitos e práticas envolvidos na implementação de uma Rede Metropolitana eficiente. O trabalho aborda aspectos como topologia de rede, protocolos de comunicação, segurança e desempenho.
 
 Integrantes
 Gabriel de Sousa &
