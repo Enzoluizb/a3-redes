@@ -21,7 +21,8 @@ Clone o Repositório
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Enzoluizb/a3-redes.git
+
 Configuração e Execução
 Siga as instruções de configuração e execução fornecidas na documentação para implementar a Rede Metropolitana em seu ambiente.
 
