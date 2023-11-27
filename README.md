@@ -16,14 +16,15 @@ Codigos: Aqui estão os scripts e códigos fonte desenvolvidos para a implementa
 Diagramas: Contém diagramas visuais que ilustram a topologia da Rede Metropolitana criada, facilitando a compreensão da arquitetura.
 
 Instruções de Uso
+
 Clone o Repositório
 
 bash
+
 Copy code
+
 git clone https://github.com/Enzoluizb/a3-redes.git
 
-Configuração e Execução
-Siga as instruções de configuração e execução fornecidas na documentação para implementar a Rede Metropolitana em seu ambiente.
+Configuração e Execução: Siga as instruções de configuração e execução fornecidas na documentação para implementar a Rede Metropolitana em seu ambiente.
 
-Exploração do Código
-Explore os códigos-fonte e adapte conforme necessário para atender aos requisitos específicos do seu ambiente.
+Exploração do Código: Explore os códigos-fonte e adapte conforme necessário para atender aos requisitos específicos do seu ambiente.
