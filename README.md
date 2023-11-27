@@ -1,4 +1,4 @@
-Projeto de Rede Metropolitana (MAN)
+## Projeto de Rede Metropolitana (MAN)
 Este repositório contém o trabalho realizado por Gabriel de Sousa e Enzo Luiz Bertoli como parte do estudo sobre redes, com foco na criação de uma Rede Metropolitana (MAN - Metropolitan Area Network).
 
 Objetivo: O objetivo principal deste projeto é explorar os conceitos e práticas envolvidos na implementação de uma Rede Metropolitana eficiente. O trabalho aborda aspectos como topologia de rede, protocolos de comunicação, segurança e desempenho.
@@ -19,11 +19,9 @@ Instruções de Uso
 
 Clone o Repositório
 
-bash
-
-Copy code
-
+```bash
 git clone https://github.com/Enzoluizb/a3-redes.git
+```
 
 Configuração e Execução: Siga as instruções de configuração e execução fornecidas na documentação para implementar a Rede Metropolitana em seu ambiente.
 
